@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - os Ticket installation files
 - RDP (port 3389) allowed on VM
 - Enabling IIS in windows vm 
-- 
+
 
 <h2>Installation Steps</h2>
 
